@@ -57,8 +57,6 @@
             {% for harvest in harvests %}
                 <ul>
                     <li>{{ harvest.date }}: Harvested {{ harvest.quantity }}</li>
-                {% else %}
-                    <li>No harvests to display yet.</li>
                 </ul>
             {% endfor %}
         </section>
