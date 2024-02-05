@@ -1,2 +1,2 @@
 # Assignment 5: Databases
-> Follow the [instructions] to complete this assignment!
+> Follow the [instructions] to complete this assignment
